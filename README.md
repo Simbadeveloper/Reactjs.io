@@ -13,7 +13,7 @@ Project to test your understanding on React.js<br>
 Requirements:
 1. Have background on Javascript<br>
 2. Install Nodejs<br>
-3. Insall npm<br>
+3. Install npm<br>
 4. install yarn<br>
 
 # BootCamp course
