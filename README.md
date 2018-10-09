@@ -1,11 +1,12 @@
 # Reactjs.io
-Hello world in React.js
+Hello world in React.js <br>
+
 [Introduction](https://medium.com/@aghh1504/1-simple-react-todo-list-52186b62976b)<br>
-This will help you to make Hello world in React.js
+This will help you to make Hello world in React.js<br>
 [Turorial](https://reactjs.org/tutorial/tutorial.html)<br>
-Full ocntent of React.js
+Full content of React.js<br>
 [Project](http://ccoenraets.github.io/es6-tutorial/setup-babel/)<br>
-Project to test your understanding on React.js
+Project to test your understanding on React.js<br>
 
 # Happy Coding
 
